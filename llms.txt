@@ -1,0 +1,52 @@
+# Geotechnique — Bourges
+
+> Geotechnical engineering services in Bourges, France.
+
+## Services
+- [Amelioration Sols](https://bourges.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://bourges.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://bourges.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://bourges.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://bourges.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://bourges.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://bourges.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://bourges.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://bourges.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://bourges.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://bourges.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://bourges.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://bourges.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://bourges.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://bourges.geotechnique.sbs/granulometrie/)
+- [Injections](https://bourges.geotechnique.sbs/injections/)
+- [Investigation](https://bourges.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://bourges.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://bourges.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://bourges.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://bourges.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://bourges.geotechnique.sbs/liquefaction/)
+- [Masw](https://bourges.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://bourges.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://bourges.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://bourges.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://bourges.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://bourges.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://bourges.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://bourges.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://bourges.geotechnique.sbs/resistivite/)
+- [Semelles](https://bourges.geotechnique.sbs/semelles/)
+- [Sismique](https://bourges.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://bourges.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://bourges.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://bourges.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://bourges.geotechnique.sbs/talus/)
+- [Triaxial](https://bourges.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://bourges.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://bourges.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://bourges.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Bourges, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
